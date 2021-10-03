@@ -1,7 +1,7 @@
 # CODIFY
 
 Class wrapper for Companies House (UK)
-Pythonic Class Wrapper and demo program to use Companies House of the United Kingdom's registrar of companies. 
+Pythonic Class Wrapper for Companies House of the United Kingdom's registrar of companies. 
 
 Requires python 3.x. Tested on Windows machine. A list of APIs specification wrapper:
 •	Get a company officer appointment
